@@ -1,0 +1,12 @@
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\bin\Debug\Xamse Tailor Managment.exe.config
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\bin\Debug\Xamse Tailor Managment.exe
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\bin\Debug\Xamse Tailor Managment.pdb
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\bin\Debug\Guna.UI.dll
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse Tailor Managment.csprojResolveAssemblyReference.cache
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse_Tailor_Managment.Properties.Resources.resources
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse Tailor Managment.csproj.GenerateResource.Cache
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse Tailor Managment.exe
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse Tailor Managment.pdb
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse_Tailor_Managment.Spalash.resources
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse_Tailor_Managment.Dashboard.resources
+C:\Users\Abdirahman\Desktop\Xamse Tailor Managment\Xamse Tailor Managment\obj\Debug\Xamse_Tailor_Managment.Login_Form.resources
